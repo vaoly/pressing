@@ -1,4 +1,4 @@
-import type { DB, Commande, Client, VetementCommande } from "../types";
+import type { DB,Client } from "../types";
 
 const DB_KEY = "pressing_index_db";
 
