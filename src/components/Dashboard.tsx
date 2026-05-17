@@ -1,5 +1,5 @@
 import type { DB } from "../types";
-import { formatPrix, formatDateShort, CLASSES } from "../utils/pricing";
+import { formatPrix, CLASSES } from "../utils/pricing";
 
 interface Props {
   db: DB;
